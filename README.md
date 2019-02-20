@@ -1,4 +1,7 @@
 # FurbiesAndFeminism
+
 Resources for Jon and Jennifer's talk on Feminism, Furbies and everything in between
 
-We'll put stuff here in the future, we promise. Likely to be mostly links to other resources.
+- [Books](books.md)
+- [Web sites / blogs](web.md)
+- [Speakers](speakers.md) - resources for helping to diversify your conference line-up
