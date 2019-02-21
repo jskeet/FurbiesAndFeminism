@@ -14,6 +14,8 @@ These are currently in no particular order, as amazon.com (US) or amazon.co.uk (
 - [Men Explain Things to Me, and Other Essays](https://www.amazon.co.uk/dp/1783780797) by Rebecca Solnit
 - [Women & Power: A Manifesto](https://www.amazon.co.uk/dp/B075TZ9NKH) by [Mary Beard](https://twitter.com/wmarybeard)
 - [We Should All Be Feminists](https://www.amazon.co.uk/dp/B00MT9EJZC) by Chimamanda Ngozi Adichie
+- [Inferior: How Science Got Women Wrong - and the New Research That's Rewriting the Story](https://www.amazon.co.uk/dp/000817203X) by [Angela Saini](https://twitter.com/AngelaDSaini)
+- [Brotopia](https://www.amazon.co.uk/dp/0735213534) by [Emily Chang](https://twitter.com/emilychangtv)
 
 ## Fiction
 
