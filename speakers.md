@@ -13,3 +13,9 @@ Conduct etc) will naturally lead to attendee diversity.
 - [GDS Diversity Pledge](https://gds.blog.gov.uk/2016/03/08/gds-and-gender-diversity-at-conferences-and-events/) (GDS is the UK Government Digital Service agency)
 - [Broadening the Responses to our Conference CFP](https://medium.com/@geek_manager/broadening-the-responses-to-our-conference-cfp-a22f120fa941)
 - [Increasing diversity at your conference](https://www.ashedryden.com/blog/increasing-diversity-at-your-conference)
+- [The Missing Stair(on handling problematic community members)](http://pervocracy.blogspot.com/2012/06/missing-stair.html)
+
+## Find Women Speakers & Organizers
+
+- [Tracy Lee's Fempire List](https://github.com/ladyleet/women-tech-speakers-organizers)
+- [CallbackWomen](https://www.callbackwomen.com/)

@@ -5,3 +5,4 @@ Resources for Jon and Jennifer's talk on Feminism, Furbies and everything in bet
 - [Books](books.md)
 - [Web sites / blogs](web.md)
 - [Speakers](speakers.md) - resources for helping to diversify your conference line-up
+- [Initiatives](initiatives.md)
